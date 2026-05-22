@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230211
+# Name: PRAKASH V
+# Date: 19.5.2026
 
 
 # AIM:
@@ -45,6 +45,7 @@ Specifying the context and requirements of a system
 
 
 
+
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -60,6 +61,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="932" height="619" alt="image" src="https://github.com/user-attachments/assets/3a507824-bba5-4a2d-8f07-b9441ac9bb19" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,6 +70,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="935" height="699" alt="image" src="https://github.com/user-attachments/assets/9056a792-e0b8-474d-b2d5-2a888613dd61" />
 
 
 
@@ -98,7 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="877" height="621" alt="image" src="https://github.com/user-attachments/assets/ef5c000c-dffb-437b-abe0-55e6c8e14026" />
 
 
 # SEQUENCE DIAGRAM
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="830" height="601" alt="image" src="https://github.com/user-attachments/assets/bc327967-9ad9-437e-bf8a-302675fbc0ba" />
 
 
 
